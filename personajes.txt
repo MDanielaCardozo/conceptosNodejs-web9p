@@ -1,3 +1,8 @@
 1- Ironman
 2- Hulk
 3- Capitan America
+ *Nuevo Personajes* 
+ 4- Thor 
+ 5-Loki 
+ 6-Spiderman 
+ 7-Venom
